@@ -1,5 +1,5 @@
 {
-  "name": "@gfke/relative-file-loader",
+  "name": "relative-file-loader",
   "version": "0.0.1",
   "description": "## Usage ```javascript     module: {         loaders: [{             test: /\\.(svg)$/,             loader: 'relative-file-loader?outputPath=' + relativePathFromOutputFolder             }         ]     } ``` ## License",
   "main": "index.js",
